@@ -1,0 +1,15 @@
+*   31a76cb (HEAD -> master, origin/master, origin/HEAD) Merge branch '3-list-tasks-sorted-by-name'
+|\
+| * a63d6ca (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) implemented sortTasksByName
+* |   f75309b Merge pull request #12 from aceto98/2-find-all-completed-tasks
+|\ \
+| * | d4cd28d (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) implemented getCompletedTasks
+| |/
+* |   68c78ad Merge pull request #11 from aceto98/1-remove-a-task-by-name
+|\ \
+| |/
+|/|
+| * fda39f5 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) implemented removeTask
+|/
+* 2625588 Add starter code
+* 5cbd32e Initial commit
